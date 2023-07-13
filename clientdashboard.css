@@ -1,0 +1,25 @@
+.navitem {
+ padding-left: 200px;
+}
+
+.navaboutus{
+    padding-top: 3px;
+}
+
+.navlogo{
+    padding-left: 40px;
+}
+.nav-color{
+    background-color:#F3F5F9 ;
+}
+.dashboardcolor {
+    background-color: #FAFAFA;
+}
+
+.sidebarfont {
+    color: rgb(17, 17, 17);
+}
+.topbarcolor {
+    color: black;
+}
+
